@@ -1,4 +1,3 @@
-Harver JS Exercise
 ============================
 
 ## Get started
